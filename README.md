@@ -11,3 +11,6 @@
 - [x] Loops
 - [x] Arrays
 - [x] match (introduced in PHP 8)
+- [x] break and continue
+- [x] Date and Time
+
